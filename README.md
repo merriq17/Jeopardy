@@ -42,3 +42,7 @@ DoubleJeopardy (skips to double jeopardy)
 ---
 
 # What I learned
+From doing the first project of Jeopardy I learned how to define functions to be used later. I also used If Else statements to get what I wanted done. 
+I felt accomplished with what I did but I wasnt happy enough. The second time I did it I wanted the code to be less overall lines with more overall information. 
+I learned that defining functions are more useful than I thought. There are many ways they can be used and even defining functions inside of other defined functions can be good. I also learned more about dictionaries and lists and how to use them. 
+this is how I made my game board. I made it out of lists. I also used the .capitalize function to make the answers match better. I was also able to implement loops inside of loops which I didn't know before. Overall I learned a lot from this project. 
