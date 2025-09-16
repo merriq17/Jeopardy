@@ -10,5 +10,21 @@ Feature 2 (Set up a working point system and a way to win or lose)
 Feature 3 (A way to quit the game after every question)
 Feature 4 (Option to choose what question and for how many points)
 
+## Commands
+None
 ---
 
+# Game Two
+## Features
+
+
+## Commands
+Commands: Board (displays the game board)
+Permaboard (displays the game board before each question)
+Points (displays the game points)
+Help (shows all commands)
+Quit (quits the game)
+Stopasking (stops asking if you want to continue after each round)
+pointsneeded (tells you points needed to win at your current point total)
+Finaljeopardy (skips the rest of the game and goes to final jeopardy)
+DoubleJeopardy (skips to double jeopardy)
