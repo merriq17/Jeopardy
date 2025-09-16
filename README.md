@@ -38,3 +38,7 @@ Stopasking (stops asking if you want to continue after each round)
 pointsneeded (tells you points needed to win at your current point total)
 Finaljeopardy (skips the rest of the game and goes to final jeopardy)
 DoubleJeopardy (skips to double jeopardy)
+
+---
+
+# What I learned
