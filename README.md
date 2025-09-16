@@ -12,11 +12,21 @@ Feature 4 (Option to choose what question and for how many points)
 
 ## Commands
 None
+
 ---
 
 # Game Two
-## Features
-
+## Features different from game one
+Feature 1 (The option to play double Jeopardy)
+Feature 2 (The option to play final Jeopardy)
+Feature 3 (Does not allow repeating of the same question)
+Feature 4 (Adds customization by commands)
+Feature 5 (Double the amount of total questions)
+Feature 6 (Smoother Code)
+Feature 7 (Option to quit whenever)
+Feature 8 (Option to show board whenever)
+Feature 9 (Option to show Points)
+Feature 10 (Option to skip to double jeopardy or final jeopardy)
 
 ## Commands
 Commands: Board (displays the game board)
